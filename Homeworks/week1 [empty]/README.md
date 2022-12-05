@@ -1,0 +1,1 @@
+İlk hafta örnek yapılmadı.
