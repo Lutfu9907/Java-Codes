@@ -6,4 +6,4 @@
 **week6:** 6. Hafta Ödevleri<br><br>
 ~~week7:~~ Sınav Haftası<br><br>
 **week8:** 8. Hafta Ödevleri<br><br>
-**week10:** 10 Hafta Ödevleri<br><br>
+**week10:** 10. Hafta Ödevleri<br><br>
