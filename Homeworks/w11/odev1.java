@@ -21,10 +21,10 @@ public class odev1 {
         for (int i = 0; i < cumle.length(); i++) {
             if((cumle.charAt(i)>=65) && (cumle.charAt(i)<=90)){
                 
-                System.out.println((char)(i+32));
+                System.out.print((char)(cumle.charAt(i) + 32));
             }
             else{
-                System.out.println((char)(i-32));
+                System.out.print((char)(cumle.charAt(i) - 32));
             }
         }
     }
