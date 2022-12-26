@@ -19,9 +19,9 @@ public class odev5 {
         String cumle=scanner.nextLine();
         int n=cumle.length()/2;
         
-        for (int i = 1; i <cumle.length()/2; i++) {
+        for (int i = 0; i <cumle.length()/2; i++) {
             System.out.print(cumle.charAt(i+n));
-            System.out.print(cumle.charAt(n+1-i));
+            System.out.print(cumle.charAt(n-1-i));
         }
         
         }
