@@ -8,7 +8,7 @@ import java.util.Scanner;
  *
  * @author dolay
  */
-public class taskagıitmakas {
+public class taskagitmakas {
 
    
     public static void main(String[] args) {
