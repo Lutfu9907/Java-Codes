@@ -23,9 +23,9 @@ public class odev7 {
         for (int i = n/2; i >0; i--) {
             System.out.print(cumle.charAt(i-1));
         } 
-        for (int i = n; i >(n/2+1); i--) {
+        for (int i = 1; i < (n/2+1); i++) {
                  
-            System.out.print(cumle.charAt(i-1));
+            System.out.print(cumle.charAt(n-i));
         }
         
     }
