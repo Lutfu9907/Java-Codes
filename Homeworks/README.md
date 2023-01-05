@@ -9,3 +9,4 @@
 **week9:** 9. Hafta Ödevleri<br><br>
 **week10:** 10. Hafta Ödevleri<br><br>
 **week11:** 11.Hafta Ödevleri<br><br>
+**week12:** 12.Hafta Ödevleri<br><br>
