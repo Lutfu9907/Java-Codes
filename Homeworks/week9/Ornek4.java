@@ -1,4 +1,4 @@
-// Diziler
+
 package week9;
 
 import java.util.Scanner;
@@ -6,9 +6,9 @@ import java.util.Scanner;
 public class Ornek4 {
 
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        Scanner scanner= new Scanner(System.in);
         System.out.print("N Değeri: ");
-        int n = input.nextInt();
+        int n = scanner.nextInt();
         
         int[] dizi = new int[n];
         
