@@ -30,7 +30,7 @@ public class Test1 {
           System.out.println("DD");
     }
     else{
-            System.out.println("gerizekalısın");
+            System.out.println("kaldınız");
           
     }
     
